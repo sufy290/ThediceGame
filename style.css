@@ -1,0 +1,83 @@
+h1{
+    margin: 10px;
+    padding: 10px;
+    color:red;
+    font-size: 4rem;
+}
+body{
+    text-align: center;
+    background-color:#333333;
+
+}
+.player1
+{
+    color: red;
+    
+}
+.player2
+{
+    color: red;
+
+}
+.row{
+    text-align: center;
+}
+.h2_cls
+{
+    margin: 20px;
+    font-size: 3.5rem;
+    color: white;
+
+}
+.p_1
+{
+    font-weight: bold;
+    font-size: large;
+    color:white;
+}
+.p_2
+{
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.button_1
+{
+    color: white;
+    background-color: black;
+}
+
+
+.first-start{
+    margin: 25px;
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+}
+
+.first-start:hover{
+    color: blueviolet;
+    background-color: bisque;
+}
+.Start_btn
+{
+    margin: 7.5%;
+}
+
+.plyGame{
+    margin: 5%;
+    background-color: white;
+    color:black;
+    
+}
+
+.plyGame:hover{
+    color: white;
+    background-color: black;
+}
+#footer_1
+{
+    color: white;
+    margin: 50px;
+    font-size: large;
+}
